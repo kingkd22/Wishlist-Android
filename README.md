@@ -27,7 +27,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <div>
     <a href="https://www.loom.com/share/feb8f881ac824f4d8bf3ce146114d68c">
       <p>Video Walkthrough</p>
