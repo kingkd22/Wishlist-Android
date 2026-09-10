@@ -1,4 +1,4 @@
-# Android Project 2 - *Name of App Here*
+# Android Project 2 - *WishList*
 
 Submitted by: **Kingston Davies**
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.loom.com/share/feb8f881ac824f4d8bf3ce146114d68c' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://www.loom.com/v1/videos/feb8f881ac824f4d8bf3ce146114d68c/thumbnail]https://www.loom.com/share/feb8f881ac824f4d8bf3ce146114d68c' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with Loom 
