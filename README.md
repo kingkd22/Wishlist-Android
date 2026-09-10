@@ -27,8 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[https://www.loom.com/share/feb8f881ac824f4d8bf3ce146114d68c](https://www.loom.com/share/feb8f881ac824f4d8bf3ce146114d68c)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<div style="position: relative; padding-bottom: 64.8014440433213%; height: 0;"><iframe src="https://www.loom.com/embed/feb8f881ac824f4d8bf3ce146114d68c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<a src='[https://www.loom.com/share/feb8f881ac824f4d8bf3ce146114d68c](https://www.loom.com/share/feb8f881ac824f4d8bf3ce146114d68c)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with Loom 
 <!-- Recommended tools:
